@@ -3,7 +3,8 @@
 <img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
 
 # StudyBuddy
-an online school platform (e-learn) using django famework
+a discord-like application with Python Django framework 
+made following #Dennis Ivy Django StudyBuddy course
 </div>
 
 
