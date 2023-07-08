@@ -4,7 +4,7 @@
 
 # StudyBuddy
 a discord-like application with Python Django framework 
-made following #Dennis Ivy Django StudyBuddy course
+made following Dennis Ivy Django StudyBuddy course
 </div>
 
 
